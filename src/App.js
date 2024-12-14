@@ -52,6 +52,7 @@ import jarniy from './img/jarniy.jpg'
 import last from './img/last.jpg'
 import zeytun7 from './img/zeytun1.jpg'
 import sol from './img/sol.jpg'
+import vinigret from './img/vinigret.jpg'
 
 /// 1chi ovqat
 import grib from './img/grib.jpg'
@@ -60,7 +61,18 @@ import sup from './img/sup.jpg'
 import frikadelka from './img/frikadelka.jpg'
 import somsa from './img/somsa.jpg'
 import mosh from './img/mosh.jpg'
-
+import brizol from './img/brizol.jpg'
+import alfiredo from './img/alfiredo.jpg'
+import kravet from './img/kravet.jpg'
+import frikase from './img/frikase.jpg'
+import sach from './img/sach.jpg'
+import kur from './img/kur.jpg'
+import chaxox from './img/chaxox.jpg'
+import chash from './img/chash.jpg'
+import kfc from './img/kfc.jpg'
+import imbirim from './img/imbirim.jpg'
+import kitay from './img/kitay.jpg'
+import sliv from './img/sliv.jpg'
 
 
 const menu = {
@@ -189,7 +201,16 @@ const menu = {
       name: "Соленья ассорти",
       price: "25 000",
       img: sol,
+    } ,
+
+
+    {
+      name: "Салат Винегред",
+      price: "32 000",
+      img: vinigret,
     } 
+
+    
 
   ],
   "1-чи овқат": [
@@ -268,10 +289,90 @@ const menu = {
       name: "Мош хурда",
       price: "35 000",
       img: mosh,
-    }
+    },
+
+    {
+      name: "Бризоль",
+      price: "52 000",
+      img: brizol,
+    },
+
+
+    {
+      name: "паста болоньезе",
+      price: "56 000",
+      img: alfiredo,
+    },
+
+
+    {
+      name: "пенне с креветками",
+      price: "62 000",
+      img: kravet,
+    },
+
+    {
+      name: "Фрикасе",
+      price: "62 000",
+      img: frikase,
+    },
+
+
+    {
+      name: "Сачтава с говядиной",
+      price: "55 000",
+      img: sach,
+    },
+
+
+    {
+      name: "Сачтава с куриный",
+      price: "50 000",
+      img: kur,
+    },
 
 
 
+    {
+      name: "Чахохбили С Курицей",
+      price: "57 000",
+      img: chaxox,
+    },
+
+
+    {
+      name: "Грузинский Чашушули",
+      price: "61 000",
+      img: chash,
+    },
+
+
+    {
+      name: "КФС без косточки",
+      price: "45 000",
+      img: kfc,
+    },
+
+
+    {
+      name: "Креветки с имбирем",
+      price: "110 000",
+      img: imbirim,
+    },
+
+
+    {
+      name: "Мясо по китайски",
+      price: "57 000",
+      img: kitay,
+    },
+
+
+    {
+      name: "Бефстроганов на сливки",
+      price: "48 000",
+      img: sliv,
+    },
 
 
   ],
