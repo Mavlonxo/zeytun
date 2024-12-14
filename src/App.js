@@ -58,7 +58,8 @@ import grib from './img/grib.jpg'
 import tikvin from './img/tikvin.jpg'
 import sup from './img/sup.jpg'
 import frikadelka from './img/frikadelka.jpg'
-
+import somsa from './img/somsa.jpg'
+import mosh from './img/mosh.jpg'
 
 
 
@@ -255,6 +256,18 @@ const menu = {
       name: "Суп с фрикаделька",
       price: "36 000",
       img: frikadelka,
+    },
+
+
+    {
+      name: "Сомса с говядиной",
+      price: "9 000",
+      img: somsa,
+    },
+    {
+      name: "Мош хурда",
+      price: "35 000",
+      img: mosh,
     }
 
 
