@@ -73,7 +73,16 @@ import kfc from './img/kfc.jpg'
 import imbirim from './img/imbirim.jpg'
 import kitay from './img/kitay.jpg'
 import sliv from './img/sliv.jpg'
+import burger from  './img/burger.jpg'
+import gov from './img/gov.jpg'
+import burgerkfc from './img/burgerkfc.jpg'
 
+
+/// pizza
+import besh from './img/besh.jpg'
+import pizzaas from './img/pizzaas.jpg'
+import grech from './img/grech.jpg'
+import dipola from './img/dipola.jpg'
 
 const menu = {
   завтрак: [
@@ -373,10 +382,58 @@ const menu = {
       price: "48 000",
       img: sliv,
     },
+     
+    {
+      name: "Бургер с говядиной",
+      price: "50 000",
+      img: burger,
+    },
 
+      
+    {
+      name: "Бургер гов.вырезка",
+      price: "55 000",
+      img: gov,
+    },
+
+
+    {
+      name: "Бургер КФС",
+      price: "55 000",
+      img: burgerkfc,
+    },
 
   ],
   
+  "пизза": [
+   
+    {
+      name: "Пицца Бешбармак  (БОЛ) (мал.)",
+      price: "50 000",
+      img: besh,
+    },
+
+    {
+      name: "Пицца Ассорти (БОЛ.)  (мал.)",
+      price: "50 000",
+      img: pizzaas,
+    },
+
+    {
+      name: "Пицца Греческий (Бол.) (Мал.)",
+      price: "50 000",
+      img: grech,
+    },
+
+
+    {
+      name: "Дипола (Бол.) (Мал.)",
+      price: "50 000",
+      img: dipola,
+    },
+    
+   
+  ],
 
 
   "2-чи овқат": [
@@ -407,6 +464,12 @@ const menu = {
     },
   ],
 };
+
+
+
+
+
+
 
 function App() {
   const [selectedCategory, setSelectedCategory] = useState("Салат");
