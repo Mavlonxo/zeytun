@@ -28,16 +28,20 @@ import drink3 from './img/drink3.jpg'
 
 //nonushta
 import skrembel from './img/skrembel.jpg'
-import omlet from './img/omlet.jpg'
 import blinchi from './img/blinchi.jpg'
+import awp from './img/awp.jpg'
 
 
 
 ///salad
+import salad1 from './img/salat1.jpg'
 import chaban from './img/chaban.jpg'
+import salad2 from './img/salat3.jpg'
+import salat3 from './img/salat5.jpg'
+import salat4 from './img/salat6.jpg'
 import murskoy from './img/murskoy.jpg'
 import baqalajon from './img/baqalajon.jpg'
-import depola from './img/depola.jpg'
+import depola from './img/dip.jpg'
 import assorti from './img/assorti.jpg'
 import morep from './img/morep.jpg'
 import cucumber from './img/cucumber.jpg'
@@ -72,7 +76,7 @@ import chash from './img/chash.jpg'
 import kfc from './img/kfc.jpg'
 import imbirim from './img/imbirim.jpg'
 import kitay from './img/kitay.jpg'
-import sliv from './img/sliv.jpg'
+import sliv from './img/laylo.jpg'
 import burger from  './img/burger.jpg'
 import gov from './img/gov.jpg'
 import burgerkfc from './img/burgerkfc.jpg'
@@ -94,7 +98,7 @@ const menu = {
     {
       name: "Омлет с сыром",
       price: "25 000",
-      img: omlet,
+      img: awp,
     },
     {
       name: "Блинчики с мясом",
@@ -106,10 +110,33 @@ const menu = {
 
   Салат: [
     {
+      name: "Греческий",
+      price: "37 000",
+      img: salad1,
+    },
+    {
       name: "Чабан салат",
       price: "32 500",
       img: chaban,
     },
+    {
+      name: "Ачичук",
+      price: "20 000",
+      img: salad2,
+    },
+
+    {
+      name: "Французский Салат",
+      price: "42 000",
+      img: salat3,
+    },
+
+    {
+      name: "Цезарь с курицей",
+      price: "45 000",
+      img: salat4,
+    },
+
     {
       name: "Мужской каприз",
       price: "38 000",
@@ -409,26 +436,26 @@ const menu = {
    
     {
       name: "Пицца Бешбармак  (БОЛ) (мал.)",
-      price: "50 000",
+      price: "100 000 // 75 0000",
       img: besh,
     },
 
     {
       name: "Пицца Ассорти (БОЛ.)  (мал.)",
-      price: "50 000",
+      price: "80 000 // 60 000",
       img: pizzaas,
     },
 
     {
       name: "Пицца Греческий (Бол.) (Мал.)",
-      price: "50 000",
+      price: "75 000 // 55 000",
       img: grech,
     },
 
 
     {
       name: "Дипола (Бол.) (Мал.)",
-      price: "50 000",
+      price: "75 000 // 55 0000",
       img: dipola,
     },
     
