@@ -2,7 +2,12 @@ import React, { useState } from "react";
 import "./App.css";
 
 
-//Salatlar
+
+//nonushta
+import skrembel from './img/skrembel.jpg'
+import blinchi from './img/blinchi.jpg'
+import awp from './img/awp.jpg'
+
 
 
 
@@ -18,7 +23,7 @@ import soup8 from './img/b7.jpg'
 
 // 2chi ovqatlar 
 
-import second1  from './img/second1.jpg'
+
 
 //ichimliklar 
 
@@ -26,10 +31,7 @@ import drink1 from './img/drink1.jpg'
 import drink2 from './img/drink2.jpg'
 import drink3 from './img/drink3.jpg'
 
-//nonushta
-import skrembel from './img/skrembel.jpg'
-import blinchi from './img/blinchi.jpg'
-import awp from './img/awp.jpg'
+
 
 
 
@@ -80,6 +82,17 @@ import sliv from './img/laylo.jpg'
 import burger from  './img/burger.jpg'
 import gov from './img/gov.jpg'
 import burgerkfc from './img/burgerkfc.jpg'
+import tush8 from './img/tush8.jpg'
+import pidey from './img/pidey.jpg'
+import ot from './img/ot.jpg'
+import slad from './img/slad.jpg'
+import kasar from './img/kasar.jpg'
+import metro from './img/metro.jpg'
+import non from './img/non.jpg'
+import laxmat from './img/laxmat.jpg'
+import bon from './img/bon.jpg'
+import nazik from './img/nazik.jpg'
+
 
 
 /// pizza
@@ -466,6 +479,72 @@ const menu = {
       price: "55 000",
       img: burgerkfc,
     },
+
+    {
+      name: "Тушоное пиде",
+      price: "52 000",
+      img: tush8,
+    },
+
+    {
+      name: "Мясное пиде (кушбаши)",
+      price: "60 000",
+      img: pidey,
+    },
+
+    {
+      name: "Пиде от шефа",
+      price: "70 000",
+      img: ot,
+    },
+    {
+      name: "Сладкий пиде ",
+      price: "65 000",
+      img: slad,
+    },
+
+    {
+      name: "Касарли пиде",
+      price: "42 000",
+      img: kasar,
+    },
+
+    {
+      name: "Метровый пиде",
+      price: "125 000",
+      img: metro,
+    },
+
+    {
+      name: "Хлеб ассорти ",
+      price: "15 000",
+      img: non,
+    },
+
+
+    {
+      name: "Лахмаджун ",
+      price: "38 000",
+      img: laxmat,
+    },
+
+    {
+      name: "Хлеб авган экмек",
+      price: "15 000",
+      img: non,
+    },
+
+    {
+      name : "Али Назик бон филе",
+      price: "75 000",
+      img: bon,
+    },
+
+    {
+      name : "Али Назик кебаб",
+      price: "60 000",
+      img: nazik,
+    }
 
    
   ],
