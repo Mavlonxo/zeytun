@@ -92,6 +92,7 @@ import non from './img/non.jpg'
 import laxmat from './img/laxmat.jpg'
 import bon from './img/bon.jpg'
 import nazik from './img/nazik.jpg'
+import lopata from './img/lopata.jpg'
 
 
 
@@ -544,6 +545,12 @@ const menu = {
       name : "Али Назик кебаб",
       price: "60 000",
       img: nazik,
+    },
+
+    {
+      name : "Баранья лопатка 1 кг",
+      price: "170 000 1 кг",
+      img: lopata,
     }
 
    
