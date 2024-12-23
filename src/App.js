@@ -590,6 +590,13 @@ function App() {
 
   return (
     <div className="App">
+     <div className="nomer">
+      <br/>
+      <h2>Дастафка учун телефон рақамлар</h2><br/>
+      <h3>+998 88 212 10 10</h3>
+      <h3>+998 99 212 10 10</h3>
+
+     </div>
       <header className="header">
         <h1>Zeytun Menu</h1>
       </header>
