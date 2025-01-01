@@ -29,10 +29,16 @@ import soup8 from './img/b7.jpg'
 
 //ichimliklar 
 
-import drink1 from './img/drink1.jpg'
-import drink2 from './img/drink2.jpg'
-import drink3 from './img/drink3.jpg'
-
+import one from './img/one.jpg'
+import two from './img/two.jpg'
+import three from './img/three.jpg'
+import four from './img/four.jpg'
+import five from './img/five.jpg'
+import six from './img/six.jpg'
+import seven from './img/seven.jpg'
+import eight from './img/eight.jpg'
+import nine from './img/nine.jpg'
+import ten from './img/ten.jpg'
 
 
 
@@ -118,6 +124,22 @@ import tibon from './img/tibon.jpg'
 import ribay from './img/ribay.jpg'
 import shirin from './img/shirin.jpg'
 import urfa from './img/urfa.jpg'
+import adana from './img/adana.jpg'
+import kurin from './img/kurin.jpg'
+import hov from './img/hov.jpg'
+import mangal from './img/mangal.jpg'
+import food7 from './img/food7.jpg'
+import food8 from './img/food8.jpg'
+import food9 from './img/food9.jpg'
+import baliq from './img/baliq.jpg'
+import izgara from './img/izgara.jpg'
+import assado from './img/assado.jpg'
+import bey from './img/bey.jpg'
+import sheyka from './img/sheyka.jpg'
+import fri from './img/fri.jpg'
+import gurunch from './img/gurunch.jpg'
+import pure from './img/pure.jpg'
+import kartofel from './img/kartofel.jpg'
 
 
 const menu = {
@@ -652,6 +674,121 @@ const menu = {
       img: urfa,
     },
 
+    {
+      name : "Урфа кебаб",
+      price: "50 000",
+      img: urfa,
+    },
+
+    {
+      name : "Адана кебаб",
+      price: "55 000",
+      img: adana,
+    },
+
+    {
+      name : "Куриный шашлык",
+      price: "42 000",
+      img: kurin,
+    },
+
+
+    {
+      name : "Лулья кебаб",
+      price: "42 000",
+      img: hov,
+    },
+
+    {
+      name : "Мангал ассорти 8 персон Мангал ассорти 6 персон 460000 Мангал ассорти 4 персон 360000",
+      price: "690000 //460000 // 360000",
+      img: mangal,
+    },
+
+
+    {
+      name : "Шашлык ассорти",
+      price: "225 000",
+      img: food7,
+    },
+
+
+    {
+      name : "Куриные крылышки",
+      price: "45 000",
+      img: food8,
+    },
+
+
+
+    {
+      name : "Жамбо мини",
+      price: "54 000",
+      img: food9,
+    },
+
+    {
+      name : "Ассадо 1 кг",
+      price: "170 000",
+      img: assado,
+    },
+
+
+    {
+      name : "Форель запеченный",
+      price: "45 000",
+      img: baliq,
+    },
+
+    {
+      name : "Изгара кофте с сыром  // Изгара кофте ",
+      price: "65000 // 55000 ",
+      img: izgara,
+    },
+
+    {
+      name : "Бейти с сыром",
+      price: "48000",
+      img: bey,
+    },
+
+    {
+      name : "Баранья шейка",
+      price: "290 000",
+      img: sheyka,
+    },
+
+
+    {
+      name : "картофель фри",
+      price: "15 000",
+      img: fri,
+    },
+
+    {
+      name : "Гуруч (рис)",
+      price: "15 000",
+      img: gurunch,
+    },
+
+    {
+      name : "Гуруч (рис)",
+      price: "15 000",
+      img: gurunch,
+    },
+
+    {
+      name : "Пюре",
+      price: "15 000",
+      img: pure,
+    },
+
+    {
+      name : "Айдахо картофель",
+      price: "20 000",
+      img: kartofel,
+    },
+
 
 
 
@@ -659,20 +796,82 @@ const menu = {
  
   Ичимликлар: [
     {
-      name: "Moxito",
-      price: "40 000",
-      img: drink1,
+      name: "Лимонады Клубничный 0,5 лт",
+      price: "25 000",
+      img: one,
     },
     {
-      name: "Ocean",
-      price: "40 000",
-      img: drink2,
+      name: "Лимонад Банан анана 0,5 лт",
+      price: "30 000",
+      img: two,
     },
     {
-      name: "Klubinka",
-      price: "40 000",
-      img: drink3,
+      name: "Лимонад  Океан 0,5 лт",
+      price: "25 000",
+      img: three,
     },
+
+
+
+    {
+      name: "Айс-ти чай 0.5 лт",
+      price: "25 000",
+      img: four,
+    },
+
+
+    {
+      name: "Лимонад  Тархун 0,5 лт",
+      price: "25 000",
+      img: five,
+    },
+
+
+    {
+      name: "Лимонад Мохито 0.5 лт",
+      price: "30 000",
+      img: six,
+    },
+      
+
+
+    {
+      name: "Кофе Капучино",
+      price: "25 000",
+      img: seven,
+    },
+
+
+    {
+      name: "Кофе Американо",
+      price: "15 000",
+      img: eight,
+    },
+
+
+
+
+    {
+      name: "Десерт- Айва",
+      price: "25 000",
+      img: nine,
+    },
+
+
+
+
+    {
+      name: "Сутлач",
+      price: "20 000",
+      img: ten,
+    },
+
+
+
+
+
+
+
   ],
 };
 
