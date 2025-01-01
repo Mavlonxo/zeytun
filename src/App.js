@@ -21,6 +21,8 @@ import soup7 from './img/b6.jpg'
 import soup8 from './img/b7.jpg'
 
 
+
+
 // 2chi ovqatlar 
 
 
@@ -93,6 +95,7 @@ import laxmat from './img/laxmat.jpg'
 import bon from './img/bon.jpg'
 import nazik from './img/nazik.jpg'
 import lopata from './img/lopata.jpg'
+import big from './img/big.jpg'
 
 
 
@@ -101,6 +104,21 @@ import besh from './img/besh.jpg'
 import pizzaas from './img/pizzaas.jpg'
 import grech from './img/grech.jpg'
 import dipola from './img/dipola.jpg'
+
+
+// today 
+import shash1 from './img/shash1.jpg'
+import box from './img/box.jpg'
+import classes from './img/class.jpg'
+import jambo from './img/jambo2.jpg'
+import medal from './img/medal.jpg'
+import koreyka from './img/koreyka.jpg'
+import zaytun from './img/zaytun.jpg'
+import tibon from './img/tibon.jpg'
+import ribay from './img/ribay.jpg'
+import shirin from './img/shirin.jpg'
+import urfa from './img/urfa.jpg'
+
 
 const menu = {
   завтрак: [
@@ -298,6 +316,10 @@ const menu = {
       price: "32 000",
       img: soup7,
     },
+
+    
+
+
     {
       name: "Борщ украинский",
       price: "32 000",
@@ -329,17 +351,17 @@ const menu = {
       img: frikadelka,
     },
 
-
-  
     {
       name: "Мош хурда",
       price: "35 000",
       img: mosh,
     },
+
    
+    
   ],
   
-  "пизза": [
+  "пизза":[
    
     {
       name: "Пицца Бешбармак  (БОЛ) (мал.)",
@@ -551,9 +573,88 @@ const menu = {
       name : "Баранья лопатка 1 кг",
       price: "170 000 1 кг",
       img: lopata,
-    }
+    },
 
+    {
+      name : "Кавказкий шашлык",
+      price: "68 000",
+      img: shash1,
+    },
+
+    {
+      name : "Куриный стейк",
+      price: "48 000",
+      img: box,
+    },
+
+    {
+      name : "Классический Стейк",
+      price: "110 000",
+      img: classes,
+    },
+
+
+    {
+      name : "Джамбо х2",
+      price: "85 000",
+      img: jambo,
+    },
+
+
+    {
+      name : "Медальон из говядины",
+      price: "92 000",
+      img: medal,
+    },
+
+
+    {
+      name : "Биг Бол Чиз",
+      price: "68 000",
+      img: big,
+    },
+
+    {
+      name : "Корейка с овощами",
+      price: "210 000",
+      img: koreyka,
+    },
+
+
+    {
+      name : "Зайтун стейк",
+      price: "120 000",
+      img: zaytun,
+    },
+
+    {
+      name : "Стейк Ти-Бон",
+      price: "160 000",
+      img: tibon,
+    },
+
+    {
+      name : "Стейк Рибай",
+      price: "180 000",
+      img: ribay,
+    },
    
+
+    {
+      name : "Бон филе ( от- шефа )",
+      price: "225 000",
+      img: shirin,
+    },
+
+    {
+      name : "Урфа кебаб",
+      price: "50 000",
+      img: urfa,
+    },
+
+
+
+
   ],
  
   Ичимликлар: [
@@ -581,12 +682,14 @@ const menu = {
 
 
 
+
 function App() {
   const [selectedCategory, setSelectedCategory] = useState("Салат");
 
   const handleCategoryClick = (category) => {
     setSelectedCategory(category);
   };
+
 
   return (
     <div className="App">
@@ -595,6 +698,7 @@ function App() {
       <h2>Дастафка учун телефон рақамлар</h2><br/>
       <h3>+998 88 212 10 10</h3>
       <h3>+998 99 212 10 10</h3>
+      
 
      </div>
       <header className="header">
