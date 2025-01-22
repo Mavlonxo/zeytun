@@ -67,6 +67,7 @@ import last from './img/last.jpg'
 import zeytun7 from './img/zeytun1.jpg'
 import sol from './img/sol.jpg'
 import vinigret from './img/vinigret.jpg'
+import qq from './img/qq.jpg'
 
 /// 1chi ovqat
 import grib from './img/grib.jpg'
@@ -298,7 +299,12 @@ const menu = {
       name: "Салат Винегред",
       price: "32 000",
       img: vinigret,
-    } 
+    }, 
+    {
+      name: "Салат baqalajon.",
+      price: "43 500",
+      img: qq,
+    }
 
     
 
@@ -877,7 +883,6 @@ const menu = {
       price: "20 000",
       img: ten,
     },
-
 
 
 
