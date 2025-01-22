@@ -39,8 +39,7 @@ import seven from './img/seven.jpg'
 import eight from './img/eight.jpg'
 import nine from './img/nine.jpg'
 import ten from './img/ten.jpg'
-
-
+import krunniy7 from './img/krunniy7.jpg'
 
 
 ///salad
@@ -383,6 +382,11 @@ const menu = {
       name: "Мош хурда",
       price: "35 000",
       img: mosh,
+    },
+    {
+      name: "no name",
+      price: "33 000",
+      img: krunniy7,
     },
 
    
