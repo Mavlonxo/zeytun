@@ -39,7 +39,6 @@ import seven from './img/seven.jpg'
 import eight from './img/eight.jpg'
 import nine from './img/nine.jpg'
 import ten from './img/ten.jpg'
-import krunniy7 from './img/krunniy7.jpg'
 
 
 ///salad
@@ -66,7 +65,6 @@ import last from './img/last.jpg'
 import zeytun7 from './img/zeytun1.jpg'
 import sol from './img/sol.jpg'
 import vinigret from './img/vinigret.jpg'
-import qq from './img/qq.jpg'
 
 /// 1chi ovqat
 import grib from './img/grib.jpg'
@@ -146,17 +144,17 @@ const menu = {
   завтрак: [
     {
       name: "скрембл",
-      price: "38 000",
+      price: "42 000",
       img: skrembel,
     },
     {
       name: "Омлет с сыром",
-      price: "25 000",
+      price: "33 000",
       img: awp,
     },
     {
       name: "Блинчики с мясом",
-      price: "8 000",
+      price: "9 000",
       img: blinchi,
     },
   ],
@@ -165,12 +163,12 @@ const menu = {
   Салат: [
     {
       name: "Греческий",
-      price: "37 000",
+      price: "42 000",
       img: salad1,
     },
     {
       name: "Чабан салат",
-      price: "32 500",
+      price: "37 500",
       img: chaban,
     },
     {
@@ -187,24 +185,24 @@ const menu = {
 
     {
       name: "Цезарь с курицей",
-      price: "45 000",
+      price: "48 000",
       img: salat4,
     },
 
     {
       name: "Мужской каприз",
-      price: "38 000",
+      price: "43 000",
       img: murskoy,
     },
     {
       name: "Салат тёплый с говядиной",
-      price: "52 500",
+      price: "57 000",
       img: baqalajon,
     },
   
     {
       name: "Салат де поло.",
-      price: "43 500",
+      price: "49 000",
       img: depola,
     },
 
@@ -215,7 +213,7 @@ const menu = {
     } ,
     {
       name: "Салат с морепродуктам",
-      price: "62 000",
+      price: "68 000",
       img: morep,
     } ,
     {
@@ -299,11 +297,7 @@ const menu = {
       price: "32 000",
       img: vinigret,
     }, 
-    {
-      name: "Салат baqalajon.",
-      price: "43 500",
-      img: qq,
-    }
+   
 
     
 
@@ -383,11 +377,7 @@ const menu = {
       price: "35 000",
       img: mosh,
     },
-    {
-      name: "no name",
-      price: "33 000",
-      img: krunniy7,
-    },
+   
 
    
     
