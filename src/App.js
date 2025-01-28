@@ -218,30 +218,30 @@ const menu = {
     } ,
     {
       name: "Салат баклажан",
-      price: "45 000",
+      price: "57 000",
       img: cucumber,
     } ,
 
     {
       name: "Салат Оливье",
-      price: "32 500",
+      price: "37 500",
       img: olivia,
     } ,
     {
       name: "Салат Ак дениз",
-      price: "45 000",
+      price: "52 000",
       img: akdeniz,
     } ,
     {
       name: "Салат Руккола с языком",
-      price: "42 000",
+      price: "49 000",
       img: yaz,
     },
 
 
     {
       name: "Салат Цезарь с криветкой",
-      price: "55 000",
+      price: "62 000",
       img: okey,
     } ,
 
@@ -254,32 +254,32 @@ const menu = {
 
     {
       name: "Салат Японский",
-      price: "45 000",
+      price: "53 000",
       img: yapon,
     } ,
     {
       name: "Стейк салат",
-      price: "92 000",
+      price: "99 000",
       img: steyk,
     } ,
 
     {
       name: "Сыр жаренный",
-      price: "35 000",
+      price: "33 000",
       img: jarniy,
     } ,
 
 
     {
       name: "Салат Цезарь с мясом",
-      price: "45 000",
+      price: "52 000",
       img: last,
     } ,
 
 
     {
       name: "Фирменный салат Зейтун",
-      price: "47 000",
+      price: "56 000",
       img: zeytun7,
     } ,
 
@@ -294,7 +294,7 @@ const menu = {
 
     {
       name: "Салат Винегред",
-      price: "32 000",
+      price: "35 000",
       img: vinigret,
     }, 
    
@@ -321,14 +321,14 @@ const menu = {
 
      {
       name: "Фирменный суп",
-      price: "36 000",
+      price: "44 000",
       img: soup5,
     },
 
 
     {
       name: "Тушёный суп",
-      price: "42 000",
+      price: "47 000",
       img: soup6,
     },
 
@@ -362,19 +362,19 @@ const menu = {
 
     {
       name: "Суп с языком",
-      price: "33 000",
+      price: "39 000",
       img: sup,
     },
 
     {
       name: "Суп с фрикаделька",
-      price: "36 000",
+      price: "42 000",
       img: frikadelka,
     },
 
     {
       name: "Мош хурда",
-      price: "35 000",
+      price: "40 000",
       img: mosh,
     },
    
@@ -387,26 +387,26 @@ const menu = {
    
     {
       name: "Пицца Бешбармак  (БОЛ) (мал.)",
-      price: "100 000 // 75 0000",
+      price: "125 000 // 100 000",
       img: besh,
     },
 
     {
       name: "Пицца Ассорти (БОЛ.)  (мал.)",
-      price: "80 000 // 60 000",
+      price: "90 000 // 75 000",
       img: pizzaas,
     },
 
     {
       name: "Пицца Греческий (Бол.) (Мал.)",
-      price: "75 000 // 55 000",
+      price: "85 000 // 65 000",
       img: grech,
     },
 
 
     {
       name: "Дипола (Бол.) (Мал.)",
-      price: "75 000 // 55 0000",
+      price: "85 000 // 65 0000",
       img: dipola,
     },
     
