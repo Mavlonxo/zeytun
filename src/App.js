@@ -134,7 +134,6 @@ import izgara from './img/izgara.jpg'
 import assado from './img/assado.jpg'
 import bey from './img/bey.jpg'
 import sheyka from './img/sheyka.jpg'
-import fri from './img/fri.jpg'
 import gurunch from './img/gurunch.jpg'
 import pure from './img/pure.jpg'
 import kartofel from './img/kartofel.jpg'
@@ -418,47 +417,47 @@ const menu = {
    
     {
       name: "Сомса с говядиной",
-      price: "9 000",
+      price: "11 000",
       img: somsa,
     },
 
     {
       name: "Бризоль",
-      price: "52 000",
+      price: "59 000",
       img: brizol,
     },
 
 
     {
       name: "паста болоньезе",
-      price: "56 000",
+      price: "59 000",
       img: alfiredo,
     },
 
 
     {
       name: "пенне с креветками",
-      price: "62 000",
+      price: "67 000",
       img: kravet,
     },
 
     {
       name: "Фрикасе",
-      price: "62 000",
+      price: "52 000",
       img: frikase,
     },
 
 
     {
       name: "Сачтава с говядиной",
-      price: "55 000",
+      price: "67 000",
       img: sach,
     },
 
 
     {
       name: "Сачтава с куриный",
-      price: "50 000",
+      price: "62 000",
       img: kur,
     },
 
@@ -466,21 +465,21 @@ const menu = {
 
     {
       name: "Чахохбили С Курицей",
-      price: "57 000",
+      price: "69 000",
       img: chaxox,
     },
 
 
     {
       name: "Грузинский Чашушули",
-      price: "61 000",
+      price: "71 000",
       img: chash,
     },
 
 
     {
       name: "КФС без косточки",
-      price: "45 000",
+      price: "49 000",
       img: kfc,
     },
 
@@ -494,69 +493,69 @@ const menu = {
 
     {
       name: "Мясо по китайски",
-      price: "57 000",
+      price: "67 000",
       img: kitay,
     },
 
 
     {
       name: "Бефстроганов на сливки",
-      price: "48 000",
+      price: "58 000",
       img: sliv,
     },
      
     {
       name: "Бургер с говядиной",
-      price: "50 000",
+      price: "60 000",
       img: burger,
     },
 
       
     {
       name: "Бургер гов.вырезка",
-      price: "55 000",
+      price: "65 000",
       img: gov,
     },
 
 
     {
       name: "Бургер КФС",
-      price: "55 000",
+      price: "40 000",
       img: burgerkfc,
     },
 
     {
       name: "Тушоное пиде",
-      price: "52 000",
+      price: "62 000",
       img: tush8,
     },
 
     {
       name: "Мясное пиде (кушбаши)",
-      price: "60 000",
+      price: "79 000",
       img: pidey,
     },
 
     {
       name: "Пиде от шефа",
-      price: "70 000",
+      price: "82 000",
       img: ot,
     },
     {
       name: "Сладкий пиде ",
-      price: "65 000",
+      price: "72 000",
       img: slad,
     },
 
     {
       name: "Касарли пиде",
-      price: "42 000",
+      price: "52 000",
       img: kasar,
     },
 
     {
       name: "Метровый пиде",
-      price: "125 000",
+      price: "140 000",
       img: metro,
     },
 
@@ -569,153 +568,149 @@ const menu = {
 
     {
       name: "Лахмаджун ",
-      price: "38 000",
+      price: "42 000",
       img: laxmat,
     },
 
     {
       name: "Хлеб авган экмек",
-      price: "15 000",
+      price: "18 000",
       img: non,
     },
 
     {
       name : "Али Назик бон филе",
-      price: "75 000",
+      price: "95 000",
       img: bon,
     },
 
     {
       name : "Али Назик кебаб",
-      price: "60 000",
+      price: "75 000",
       img: nazik,
     },
 
     {
-      name : "Баранья лопатка 1 кг",
-      price: "170 000 1 кг",
+      name : "Баранья лопатка 1кг, 900 Гр",
+      price: "365 000",
       img: lopata,
     },
 
     {
       name : "Кавказкий шашлык",
-      price: "68 000",
+      price: "78 000",
       img: shash1,
     },
 
     {
       name : "Куриный стейк",
-      price: "48 000",
+      price: "55 000",
       img: box,
     },
 
     {
       name : "Классический Стейк",
-      price: "110 000",
+      price: "127 000",
       img: classes,
     },
 
 
     {
       name : "Джамбо х2",
-      price: "85 000",
+      price: "105 000",
       img: jambo,
     },
 
 
     {
       name : "Медальон из говядины",
-      price: "92 000",
+      price: "110 000",
       img: medal,
     },
 
 
     {
       name : "Биг Бол Чиз",
-      price: "68 000",
+      price: "79 000",
       img: big,
     },
 
     {
       name : "Корейка с овощами",
-      price: "210 000",
+      price: "245 000",
       img: koreyka,
     },
 
 
     {
       name : "Зайтун стейк",
-      price: "120 000",
+      price: "140 000",
       img: zaytun,
     },
 
     {
       name : "Стейк Ти-Бон",
-      price: "160 000",
+      price: "180 000",
       img: tibon,
     },
 
     {
       name : "Стейк Рибай",
-      price: "180 000",
+      price: "210 000",
       img: ribay,
     },
    
 
     {
       name : "Бон филе ( от- шефа )",
-      price: "225 000",
+      price: "255 000",
       img: shirin,
     },
 
     {
       name : "Урфа кебаб",
-      price: "50 000",
+      price: "55 000",
       img: urfa,
     },
 
-    {
-      name : "Урфа кебаб",
-      price: "50 000",
-      img: urfa,
-    },
+   
 
     {
       name : "Адана кебаб",
-      price: "55 000",
+      price: "60 000",
       img: adana,
     },
 
     {
       name : "Куриный шашлык",
-      price: "42 000",
+      price: "50 000",
       img: kurin,
     },
 
 
     {
       name : "Лулья кебаб",
-      price: "42 000",
+      price: "50 000",
       img: hov,
     },
 
     {
       name : "Мангал ассорти 8 персон Мангал ассорти 6 персон 460000 Мангал ассорти 4 персон 360000",
-      price: "690000 //460000 // 360000",
+      price: "420.000 //520.000 // 760.000",
       img: mangal,
     },
 
 
     {
       name : "Шашлык ассорти",
-      price: "225 000",
+      price: "280 000",
       img: food7,
     },
 
 
     {
       name : "Куриные крылышки",
-      price: "45 000",
+      price: "52 000",
       img: food8,
     },
 
@@ -723,47 +718,43 @@ const menu = {
 
     {
       name : "Жамбо мини",
-      price: "54 000",
+      price: "62 000",
       img: food9,
     },
 
     {
-      name : "Ассадо 1 кг",
-      price: "170 000",
+      name : "Ассадо 2кг 200 Гр",
+      price: "365 000",
       img: assado,
     },
 
 
     {
       name : "Форель запеченный",
-      price: "45 000",
+      price: "125 000",
       img: baliq,
     },
 
     {
       name : "Изгара кофте с сыром  // Изгара кофте ",
-      price: "65000 // 55000 ",
+      price: "72 000 // 62 000 ",
       img: izgara,
     },
 
     {
       name : "Бейти с сыром",
-      price: "48000",
+      price: "58 000",
       img: bey,
     },
 
     {
       name : "Баранья шейка",
-      price: "290 000",
+      price: "320 000",
       img: sheyka,
     },
 
 
-    {
-      name : "картофель фри",
-      price: "15 000",
-      img: fri,
-    },
+  
 
     {
       name : "Гуруч (рис)",
