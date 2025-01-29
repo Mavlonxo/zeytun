@@ -65,6 +65,9 @@ import last from './img/last.jpg'
 import zeytun7 from './img/zeytun1.jpg'
 import sol from './img/sol.jpg'
 import vinigret from './img/vinigret.jpg'
+import baqalajon12 from './img/baqalajon12.jpg'
+import suzma from './img/suzma.jpg'
+import suzmaches from './img/suzmaches.jpg'
 
 /// 1chi ovqat
 import grib from './img/grib.jpg'
@@ -100,6 +103,7 @@ import bon from './img/bon.jpg'
 import nazik from './img/nazik.jpg'
 import lopata from './img/lopata.jpg'
 import big from './img/big.jpg'
+import koza from './img/koza.jpg'
 
 
 
@@ -205,6 +209,13 @@ const menu = {
       img: depola,
     },
 
+
+    {
+      name: "СУЗМА ЧЕСНОЧНЫЙ.",
+      price: "15 000",
+      img: suzmaches,
+    },
+
     {
       name: "Салат овощной ассорти",
       price: "40 000",
@@ -275,6 +286,12 @@ const menu = {
       img: last,
     } ,
 
+    {
+      name: "САЛАТ С ХРУСТЯЩИМИ БАКЛАЖАНАМИ",
+      price: "55 000",
+      img: baqalajon12,
+    },
+
 
     {
       name: "Фирменный салат Зейтун",
@@ -288,6 +305,13 @@ const menu = {
       name: "Соленья ассорти",
       price: "25 000",
       img: sol,
+    } ,
+
+
+    {
+      name: "сузма",
+      price: "12 000",
+      img: suzma,
     } ,
 
 
@@ -363,6 +387,12 @@ const menu = {
       name: "Суп с языком",
       price: "39 000",
       img: sup,
+    },
+
+    {
+      name: "Коза шурпа",
+      price: "51 000",
+      img: koza,
     },
 
     {
