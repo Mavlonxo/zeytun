@@ -40,6 +40,7 @@ import eight from './img/eight.jpg'
 import nine from './img/nine.jpg'
 import ten from './img/ten.jpg'
 import koreyka7 from './img/koreyka7.jpg'
+import iskandaruzi from './img/iskandaruzi.jpg'
 
 
 ///salad
@@ -108,6 +109,7 @@ import koza from './img/koza.jpg'
 import dolma from './img/dolma.jpg'
 import xachapuri from './img/xachapuri.jpg'
 import xachapuri2 from './img/xachapuri2.jpg'
+import krunniy from './img/krunniy.jpg'
 
 /// pizza
 import besh from './img/besh.jpg'
@@ -115,6 +117,8 @@ import pizzaas from './img/pizzaas.jpg'
 import grech from './img/grech.jpg'
 import dipola from './img/dipola.jpg'
 import xinkali from './img/xinkali.jpg'
+import kavkaz from './img/kavkaz.jpg'
+import pizzazeytun from  './img/pizzazeytun.jpg'
 
 // today 
 import shash1 from './img/shash1.jpg'
@@ -149,6 +153,9 @@ import lavash from './img/lavash.jpg'
 import donar from './img/donar.jpg'
 import nagetsi from './img/nagetsi.jpg'
 import baranina from './img/baranina.jpg'
+import biztirogen from './img/biztirogen.jpg'
+import iskandar from './img/iskandar.jpg'
+
 
 
 const menu = {
@@ -452,6 +459,13 @@ const menu = {
       img: grech,
     },
 
+    {
+      name: "Пицца зайтун микс (Бол.) (Мал.)",
+      price: "125 000 // 100 000",
+      img: pizzazeytun,
+    },
+
+
 
     {
       name: "Дипола (Бол.) (Мал.)",
@@ -554,6 +568,11 @@ const menu = {
       img: imbirim,
     },
 
+    {
+      name: "куринний стейк",
+      price: "55 000",
+      img: krunniy,
+    },
 
     {
       name: "Мясо по китайски",
@@ -593,6 +612,12 @@ const menu = {
       price: "62 000",
       img: tush8,
     },
+    {
+      name : "БЫСТРОГАНОВ",
+      price: "56 000",
+      img: biztirogen,
+    },
+
 
     {
       name: "Мясное пиде (кушбаши)",
@@ -647,6 +672,9 @@ const menu = {
       price: "95 000",
       img: bon,
     },
+
+
+    
 
     {
       name : "Али Назик кебаб",
@@ -765,7 +793,19 @@ const menu = {
     {
       name : "Корейка из Баранина",
       price: "108 000",
-      img: ribay,
+      img: baranina,
+    },
+
+    {
+      name : "искандар",
+      price: "78 000",
+      img: iskandaruzi,
+    },
+
+    {
+      name : "Искендер кебаб на тарелка",
+      price: "68 000",
+      img: iskandar,
     },
 
    
@@ -814,6 +854,12 @@ const menu = {
       name : "Шашлык ассорти",
       price: "280 000",
       img: food7,
+    },
+
+    {
+      name : "Кавказ шашлик",
+      price: "78 000",
+      img: kavkaz,
     },
 
 
