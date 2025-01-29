@@ -141,6 +141,7 @@ import sheyka from './img/sheyka.jpg'
 import gurunch from './img/gurunch.jpg'
 import pure from './img/pure.jpg'
 import kartofel from './img/kartofel.jpg'
+import lapshoy from './img/lapshoy.jpg'
 
 
 const menu = {
@@ -346,6 +347,12 @@ const menu = {
       name: "Фирменный суп",
       price: "44 000",
       img: soup5,
+    },
+
+    {
+      name: "КУРИНЫЙ СУП С ЛАПШОЙ",
+      price: "42 000",
+      img: lapshoy,
     },
 
 
