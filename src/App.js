@@ -147,6 +147,8 @@ import lapshoy from './img/lapshoy.jpg'
 import aydaxo from './img/aydaxo.jpg'
 import lavash from './img/lavash.jpg'
 import donar from './img/donar.jpg'
+import nagetsi from './img/nagetsi.jpg'
+import baranina from './img/baranina.jpg'
 
 
 const menu = {
@@ -734,6 +736,12 @@ const menu = {
       img: koreyka,
     },
 
+    {
+      name : "КУРИНЫЕ НАГГЕТСЫ И КАРТОФЕЛЬ ФРИ",
+      price: "54 000",
+      img: nagetsi,
+    },
+
 
     {
       name : "Зайтун стейк",
@@ -752,6 +760,14 @@ const menu = {
       price: "210 000",
       img: ribay,
     },
+
+
+    {
+      name : "Корейка из Баранина",
+      price: "108 000",
+      img: ribay,
+    },
+
    
 
     {
