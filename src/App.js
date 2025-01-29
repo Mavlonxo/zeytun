@@ -39,6 +39,7 @@ import seven from './img/seven.jpg'
 import eight from './img/eight.jpg'
 import nine from './img/nine.jpg'
 import ten from './img/ten.jpg'
+import koreyka7 from './img/koreyka7.jpg'
 
 
 ///salad
@@ -104,15 +105,16 @@ import nazik from './img/nazik.jpg'
 import lopata from './img/lopata.jpg'
 import big from './img/big.jpg'
 import koza from './img/koza.jpg'
-
-
+import dolma from './img/dolma.jpg'
+import xachapuri from './img/xachapuri.jpg'
+import xachapuri2 from './img/xachapuri2.jpg'
 
 /// pizza
 import besh from './img/besh.jpg'
 import pizzaas from './img/pizzaas.jpg'
 import grech from './img/grech.jpg'
 import dipola from './img/dipola.jpg'
-
+import xinkali from './img/xinkali.jpg'
 
 // today 
 import shash1 from './img/shash1.jpg'
@@ -142,6 +144,9 @@ import gurunch from './img/gurunch.jpg'
 import pure from './img/pure.jpg'
 import kartofel from './img/kartofel.jpg'
 import lapshoy from './img/lapshoy.jpg'
+import aydaxo from './img/aydaxo.jpg'
+import lavash from './img/lavash.jpg'
+import donar from './img/donar.jpg'
 
 
 const menu = {
@@ -368,6 +373,12 @@ const menu = {
       img: soup7,
     },
 
+    {
+      name: "Корейка Шурпа",
+      price: "59 000",
+      img: koreyka7,
+    },
+
     
 
 
@@ -473,9 +484,23 @@ const menu = {
 
 
     {
+      name: "хинкали по-грузински",
+      price: "11 000",
+      img: xinkali,
+    },
+
+
+
+    {
       name: "пенне с креветками",
       price: "67 000",
       img: kravet,
+    },
+
+    {
+      name: "Долма",
+      price: "56 000",
+      img: dolma,
     },
 
     {
@@ -628,6 +653,19 @@ const menu = {
     },
 
     {
+      name : "Хачапури по морейский",
+      price: "82 000",
+      img: xachapuri,
+    },
+
+    {
+      name : "Хачапури по аджарский",
+      price: "82 000",
+      img: xachapuri2,
+    },
+
+
+    {
       name : "Баранья лопатка 1кг, 900 Гр",
       price: "365 000",
       img: lopata,
@@ -660,6 +698,12 @@ const menu = {
 
 
     {
+      name : "МЯСО С КАРТОФЕЛЕМ АЙДАХО",
+      price: "69 000",
+      img: aydaxo,
+    },
+
+    {
       name : "Медальон из говядины",
       price: "110 000",
       img: medal,
@@ -670,6 +714,18 @@ const menu = {
       name : "Биг Бол Чиз",
       price: "79 000",
       img: big,
+    },
+
+    {
+      name : "Донар",
+      price: "48 000",
+      img: donar,
+    },
+
+    {
+      name : "Лаваш",
+      price: "50 000",
+      img: lavash,
     },
 
     {
